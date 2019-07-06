@@ -1,0 +1,4 @@
+npm init -y
+npm install express puppeteer body-parser --save
+npm install nodemon --save-dev
+    "start-dev": "nodemon server"
